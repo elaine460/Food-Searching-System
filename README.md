@@ -9,11 +9,11 @@
 
 |     | Matric Number | Name                         | Role   | Phone Number | Photo |
 |-----|---------------|------------------------------|--------|--------------|-------|
-| 1.  | 277338        | Chow Jing Qi                 | Leader | 017-4008728  |   ![277338](https://user-images.githubusercontent.com/77046925/235867163-2acb3a3c-2131-447f-8a18-db047fd611a8.jpeg)    |
-| 2.  | 279241        | Lew Elaine                   | Member | 018-9158226  |    ![profileImg279241](https://user-images.githubusercontent.com/102460032/235869124-31ecf04b-4735-4e13-9b64-beee8d374b91.jpg)     |
-| 3.  | 280507        | Noor Shahida Bt Sharizal     | Member | 017-4311078 |   ![student](https://user-images.githubusercontent.com/103965506/235957256-43ce9899-c88c-4a14-8db8-c151eb96fff7.jpg)
-| 4.  | 280213        | Siti Nur Aishah Bt Abd Latif | Member       | 013-3204030             |    ![myself](https://github.com/STIW3054-A222/groupproject-tastebot/assets/103985766/df680869-0af7-405d-8a27-fb4cf25d517b)|
-| 5.  | 280579        | Farah Binti Abd Aziz         | Member | 011-10384545 | ![farah_photo](https://github.com/STIW3054-A222/groupproject-tastebot/assets/80876660/26c1f50b-f390-4979-9da3-cb9d8d066c80) |
+| 1.  | 277338        | Chow Jing Qi                 | Leader |              |       |
+| 2.  | 279241        | Lew Elaine                   | Member |              |       |
+| 3.  | 280507        | Noor Shahida Bt Sharizal     | Member |              |       |
+| 4.  | 280213        | Siti Nur Aishah Bt Abd Latif | Member |              |       |
+| 5.  | 280579        | Farah Binti Abd Aziz         | Member |              |       |
 
 ## Title of your application (a unique title)
 TasteBot
